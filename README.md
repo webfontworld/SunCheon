@@ -7,7 +7,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'suncheon';
+    font-family: 'Suncheon';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/suncheon/SuncheonRegular.eot');
@@ -18,7 +18,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'suncheon';
+    font-family: 'Suncheon';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/suncheon/SuncheonBold.eot');
